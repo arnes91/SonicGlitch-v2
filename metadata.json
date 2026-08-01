@@ -1,0 +1,6 @@
+{
+  "name": "Glitch Audio Visualizer",
+  "description": "High-octane WebGL glitch audio visualizer & signal analyzer with multi-band FFT, audio generator, mic input, track presets & custom file player.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
